@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Aditya Baldawa, a passionate developer with a focus on building efficient and creative solutions to real-world problems. I love working with technologies that enhance user experience and simplify complex processes.<br><br>What I’m currently learning:<br>Advanced C<br>Backend DBMS systems
+Hi there! 👋 I'm Aditya Baldawa, a passionate developer with a focus on building efficient and creative solutions to real-world problems. I love working with technologies that enhance user experience and simplify complex processes.<br><br>What I’m currently learning:<br>Advanced C<br>Backend DBMS systems<br>DSA
 
 
 ## 🌐 Socials:
